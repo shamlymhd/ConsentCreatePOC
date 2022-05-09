@@ -1,0 +1,5 @@
+ResponseStatus.class
+ConsentUtils.class
+ConsentManageData.class
+ConsentException.class
+ConsentManageEndpoint.class
